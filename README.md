@@ -1,1 +1,1 @@
-# ourAnimals.NET
+Create sample data ourAnimals array entries
